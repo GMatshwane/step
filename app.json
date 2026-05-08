@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Step Counter",
+    "slug": "step-counter-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "package": "com.gordonmatshwane.stepcounter",
+      "versionCode": 1
+    }
+  }
+}

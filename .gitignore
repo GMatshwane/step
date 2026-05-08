@@ -1,0 +1,42 @@
+# dependencies
+node_modules/
+
+# expo
+.expo/
+.expo-shared/
+dist/
+web-build/
+
+# local env files
+.env
+.env.*
+!.env.example
+
+# logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# macOS
+.DS_Store
+
+# editors
+.vscode/
+.idea/
+
+# android
+android/.gradle/
+android/build/
+android/app/build/
+android/app/.cxx/
+android/local.properties
+android/*.keystore
+android/**/*.keystore
+
+# ios
+ios/build/
+ios/Pods/
+
+# test and coverage
+coverage/
